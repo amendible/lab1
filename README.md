@@ -61,7 +61,7 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 | **Barra superior (futuro)** | Menú de archivo, vista y ayuda |
 | **Footer (futuro)** | Estado actual y mensajes del sistema |
 
-📸 **Ejemplo visual (agrega tu captura aquí):**  
+📸 **Ejemplo visual:**  
 ![Captura del editor](assets/screenshot.png)
 
 ---
