@@ -69,16 +69,31 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 </div>
 
 ---
-
 ## 🧠 Estructura del proyecto
+
 editor-de-mapas/
 │
-├── assets/ # Recursos gráficos (tiles, íconos, etc.)
-├── scenes/ # Escenas de Godot
-├── scripts/ # Código GDScript (lógica del editor)
-├── maps/ # Carpeta para mapas guardados (futuro)
-├── main.tscn # Escena principal
-└── README.md # Este archivo
+├── assets/ # Recursos gráficos del editor
+│ └── tiles/ # Imágenes de los distintos tipos de bloques
+│ ├── cesped.png
+│ ├── ladrillo.png
+│ └── suelo.png
+│
+├── mapas/ # Archivos de mapas guardados (formato JSON)
+│ └── mapa_guardado.json
+│
+├── src/ # Código fuente organizado por módulos
+│ ├── io/ # Entrada/salida (guardar/cargar mapas)
+│ │ └── SaveLoad.gd
+│ ├── model/ # Datos del mapa y su representación lógica
+│ │ └── MapData.gd
+│ └── ui/ # Interfaz gráfica del editor
+│ ├── editor.tscn
+│ ├── editor.gd
+│ └── tm_background.gd
+│
+└── icon.svg # Ícono del proyecto
+
 
 
 ---
