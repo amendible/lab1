@@ -1,30 +1,13 @@
-#Editor de Mapas 2D en Godot
+Editor de Mapas 2D en Godot
 
 Herramienta para la creación de mapas 2D tipo *tile-based* para videojuegos.
 
 
 ---
 
-##Objetivo general
+Objetivo general
 Desarrollar una herramienta gráfica que permita a los usuarios **diseñar mapas tipo cuadrícula (tile-based)** para videojuegos 2D.  
 El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borrar tiles, con distintos tipos de terreno.
-
----
-
-##Estado del proyecto
-
-| Funcionalidad | Estado | Descripción |
-|----------------|:------:|-------------|
-| Dibujo de tiles | ✅ | Permite pintar tiles sobre una cuadrícula |
-| Borrado de tiles | ✅ | Elimina tiles con clic derecho |
-| Tipos de tile (césped, ladrillo, suelo) | ✅ | Tres tipos básicos implementados |
-| Interfaz en Godot | ✅ | Interfaz funcional y limpia |
-| Capas (fondo, objetos, colisiones) | ⏳ | En desarrollo |
-| Guardado / Carga | ⏳ | Planeado con formato JSON |
-| Undo / Redo | ✅ | Implementado |
-| Exportación a prototipo de juego | ⏳ | Planeado |
-
----
 
 ## Instrucciones de uso
 
@@ -32,13 +15,13 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 - [Godot Engine 4.x](https://godotengine.org/download)
 - Sistema operativo: **Windows**, **Linux** o **macOS**
 
-### Ejecución
+Ejecución
 1. Clona o descarga el repositorio.
 2. Abre la carpeta del proyecto en **Godot**.
 3. Ejecuta la escena principal (`editor.tscn`).
 4. Empieza a **dibujar y borrar tiles** con el mouse.
 
-### Controles
+Controles
 
 | Acción | Descripción |
 |--------|--------------|
@@ -103,28 +86,11 @@ editor-de-mapas/
 
 ---
 
-## Próximos pasos
-
-1. Implementar **capas** (fondo, objetos, colisiones).  
-2. Añadir **herramientas** de selección, relleno y mover.  
-3. Desarrollar **guardado/carga** en formato JSON.    
-4. Agregar **exportación** para el prototipo de juego.  
-5. Mejorar la **UI/UX** con zoom, scroll y vista previa.  
-
----
-
-## Pruebas previstas
-- Validar funcionamiento en mapas grandes (100x100 tiles).  
-- Probar manejo de errores (tiles fuera de rango, archivos corruptos).  
-- Optimizar el rendimiento al dibujar grandes áreas.
-
----
-
 ## Tecnologías utilizadas
 
 - **Motor:** [Godot Engine 4.x](https://godotengine.org)  
 - **Lenguaje:** GDScript  
-- **Formato de recursos:** `.png`, `.tscn`, `.gd`, `.json` (planeado)
+- **Formato de recursos:** `.png`, `.tscn`, `.gd`, `.json`
 
 ---
 ## Autores
@@ -141,15 +107,6 @@ editor-de-mapas/
 **Año:** 2025  
 **Docente:** *[DANIEL ROMERO MARTINEZ]*  
 
----
 
-## 🏁 Licencia
-Este proyecto fue desarrollado con fines **académicos**.  
-El código puede reutilizarse y modificarse libremente con fines educativos.
-
----
-
-> 💬 *“Construir herramientas es el primer paso para crear mundos.”*  
-> — Proyecto Editor de Mapas 2D 🌍
 
 
