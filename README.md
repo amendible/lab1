@@ -133,13 +133,19 @@ editor-de-mapas/
 - [ ] Documento explicativo sobre diseño y complejidad.  
 
 ---
-
 ## 🧑‍💻 Autores
-**Nombre:** *[Tu nombre completo]*  
-**Universidad:** *[Nombre de la universidad]*  
-**Asignatura:** *[Nombre del curso / materia]*  
+
+👤 **Juan Pablo**  
+👤 **Andrés Mendible**  
+👤 **Keinerth De La Hoz**  
+👤 **Luis [Apellido]**  
+👤 **[Nombre del quinto integrante]**
+
+
+**Universidad:** *[Universidad del Norte]*  
+**Asignatura:** *[Estructura de datos]*  
 **Año:** 2025  
-**Docente:** *[Nombre del profesor, opcional]*  
+**Docente:** *[DANIEL ROMERO MARTINEZ]*  
 
 ---
 
@@ -151,5 +157,5 @@ El código puede reutilizarse y modificarse libremente con fines educativos.
 
 > 💬 *“Construir herramientas es el primer paso para crear mundos.”*  
 > — Proyecto Editor de Mapas 2D 🌍
-## 🧠 Estructura del proyecto
+
 
