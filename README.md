@@ -2,6 +2,7 @@
 
 > 🧩 Herramienta para la creación de mapas 2D tipo *tile-based* para videojuegos.
 
+
 ---
 
 ## 🎯 Objetivo general
@@ -67,6 +68,9 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cb3ce27d-de04-4f20-a352-d4d76e31f7b5" alt="Ejemplo mapa básico" width="700"/>
 </div>
+
+
+![Vista previa del editor](![animation](https://github.com/user-attachments/assets/66560d2e-4d77-4fc6-a3f0-4d47ab9d2da1))
 
 ---
 
