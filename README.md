@@ -34,7 +34,7 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 ### ▶️ Ejecución
 1. Clona o descarga el repositorio.
 2. Abre la carpeta del proyecto en **Godot**.
-3. Ejecuta la escena principal (`main.tscn`).
+3. Ejecuta la escena principal (`editor.tscn`).
 4. Empieza a **dibujar y borrar tiles** con el mouse.
 
 ### 🖱️ Controles
@@ -57,12 +57,13 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 | Elemento | Descripción |
 |-----------|--------------|
 | **Área central** | Lienzo donde se dibuja el mapa |
-| **Panel lateral (futuro)** | Paleta de tiles y herramientas |
+| **Panel lateral** | Paleta de tiles y herramientas |
 | **Barra superior (futuro)** | Menú de archivo, vista y ayuda |
 | **Footer (futuro)** | Estado actual y mensajes del sistema |
 
 📸 **Ejemplo visual:**  
-![Captura del editor](assets/screenshot.png)
+![Captura del editor](<img width="1156" height="651" alt="image" src="https://github.com/user-attachments/assets/8799731b-bee5-4cd5-9dad-ed2a5d72a678" />
+)
 
 ---
 
