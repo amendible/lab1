@@ -1,6 +1,6 @@
 # 🎨 Editor de Mapas 2D en Godot
 
-> 🧩 **Proyecto universitario** – Herramienta para la creación de mapas 2D tipo *tile-based* para videojuegos.
+> 🧩 Herramienta para la creación de mapas 2D tipo *tile-based* para videojuegos.
 
 ---
 
@@ -20,7 +20,7 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 | Interfaz en Godot | ✅ | Interfaz funcional y limpia |
 | Capas (fondo, objetos, colisiones) | ⏳ | En desarrollo |
 | Guardado / Carga | ⏳ | Planeado con formato JSON |
-| Undo / Redo | ⏳ | Planeado |
+| Undo / Redo | ✅ | Implementado |
 | Exportación a prototipo de juego | ⏳ | Planeado |
 
 ---
@@ -43,9 +43,12 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 |--------|--------------|
 | 🖱️ Click izquierdo | Pinta un tile del tipo seleccionado |
 | 🖱️ Click derecho | Borra un tile |
-| 1️⃣ | Selecciona tile de césped |
-| 2️⃣ | Selecciona tile de ladrillo |
-| 3️⃣ | Selecciona tile de suelo |
+| <img width="32" height="30" alt="image" src="https://github.com/user-attachments/assets/00f167a5-034e-4e1f-aa69-d33798c2a3f9" />
+ | Selecciona tile de césped |
+| <img width="33" height="31" alt="image" src="https://github.com/user-attachments/assets/9387d286-4239-4b28-9458-7bc1b62d2b3c" />
+ | Selecciona tile de ladrillo |
+| <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/45a716da-c0c0-4a3f-9680-e62c0dd1cfac" />
+ | Selecciona tile de suelo |
 
 ---
 
