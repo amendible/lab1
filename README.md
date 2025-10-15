@@ -70,8 +70,10 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 
 
 ## 🧠 Estructura del proyecto
-editor-de-mapas/
+
 ---
+editor-de-mapas/
+│
 │
 ├── assets/ # Recursos gráficos del editor
 │ └── tiles/ # Imágenes de los distintos tipos de bloques
