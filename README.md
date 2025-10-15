@@ -1,17 +1,17 @@
-# 🎨 Editor de Mapas 2D en Godot
+#Editor de Mapas 2D en Godot
 
-> 🧩 Herramienta para la creación de mapas 2D tipo *tile-based* para videojuegos.
+Herramienta para la creación de mapas 2D tipo *tile-based* para videojuegos.
 
 
 ---
 
-## 🎯 Objetivo general
+##Objetivo general
 Desarrollar una herramienta gráfica que permita a los usuarios **diseñar mapas tipo cuadrícula (tile-based)** para videojuegos 2D.  
 El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borrar tiles, con distintos tipos de terreno.
 
 ---
 
-## 🧱 Estado del proyecto
+##Estado del proyecto
 
 | Funcionalidad | Estado | Descripción |
 |----------------|:------:|-------------|
@@ -26,33 +26,33 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 
 ---
 
-## 🕹️ Instrucciones de uso
+## Instrucciones de uso
 
-### ⚙️ Requisitos
+### Requisitos
 - [Godot Engine 4.x](https://godotengine.org/download)
 - Sistema operativo: **Windows**, **Linux** o **macOS**
 
-### ▶️ Ejecución
+### Ejecución
 1. Clona o descarga el repositorio.
 2. Abre la carpeta del proyecto en **Godot**.
 3. Ejecuta la escena principal (`editor.tscn`).
 4. Empieza a **dibujar y borrar tiles** con el mouse.
 
-### 🖱️ Controles
+### Controles
 
 | Acción | Descripción |
 |--------|--------------|
-| 🖱️ Click izquierdo | Pinta un tile del tipo seleccionado |
-| 🖱️ Click derecho | Borra un tile |
+| Click izquierdo | Pinta un tile del tipo seleccionado |
+| Click derecho | Borra un tile |
 | <img width="32" height="30" alt="image" src="https://github.com/user-attachments/assets/00f167a5-034e-4e1f-aa69-d33798c2a3f9" /> | Selecciona tile de suelo |
 | <img width="33" height="31" alt="image" src="https://github.com/user-attachments/assets/9387d286-4239-4b28-9458-7bc1b62d2b3c" /> | Selecciona tile de césped |
 | <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/80e684f3-9810-46a3-9192-9b7e253b965a" /> | Selecciona tile de ladrillo |
 
 ---
 
-## 🧩 Interfaz general
+## Interfaz general
 
-> 💡 La interfaz está pensada para ser simple, clara y escalable.  
+> La interfaz está pensada para ser simple, clara y escalable.  
 > En el futuro incluirá paneles de herramientas, capas y propiedades.
 
 | Elemento | Descripción |
@@ -62,8 +62,8 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 | **Barra superior (futuro)** | Menú de archivo, vista y ayuda |
 | **Footer (futuro)** | Estado actual y mensajes del sistema |
 
-📸 **Ejemplo visual:**  
-> 💡 Este es un ejemplo de mapa creado con el editor.
+**Ejemplo visual:**  
+> Este es un ejemplo de mapa creado con el editor.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cb3ce27d-de04-4f20-a352-d4d76e31f7b5" alt="Ejemplo mapa básico" width="700"/>
@@ -74,7 +74,7 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 
 ---
 
-## 🧠 Estructura del proyecto
+## Estructura del proyecto
 
 ```text
 editor-de-mapas/
@@ -103,7 +103,7 @@ editor-de-mapas/
 
 ---
 
-## 🔮 Próximos pasos
+## Próximos pasos
 
 1. Implementar **capas** (fondo, objetos, colisiones).  
 2. Añadir **herramientas** de selección, relleno y mover.  
@@ -113,37 +113,27 @@ editor-de-mapas/
 
 ---
 
-## 🧪 Pruebas previstas
+## Pruebas previstas
 - Validar funcionamiento en mapas grandes (100x100 tiles).  
 - Probar manejo de errores (tiles fuera de rango, archivos corruptos).  
 - Optimizar el rendimiento al dibujar grandes áreas.
 
 ---
 
-## 🧰 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Motor:** [Godot Engine 4.x](https://godotengine.org)  
 - **Lenguaje:** GDScript  
 - **Formato de recursos:** `.png`, `.tscn`, `.gd`, `.json` (planeado)
 
 ---
+## Autores
 
-## 📦 Entregables (según guía del proyecto)
-
-- [x] Código fuente organizado.  
-- [x] README con instrucciones de uso.  
-- [ ] Video demostración (5–8 minutos).  
-- [ ] Dos mapas de ejemplo (simple y complejo).  
-- [ ] Documento explicativo sobre diseño y complejidad.  
-
----
-## 🧑‍💻 Autores
-
-👤 **Juan Pablo**  
-👤 **Andrés Mendible**  
-👤 **Keinerth De La Hoz**  
-👤 **Luis [Apellido]**  
-👤 **[Nombre del quinto integrante]**
+**Juan Pablo Bustillo**  
+**Andrés Santiago Mendible**  
+**Keinerth De La Hoz**  
+**Luis Castro Caro**  
+**Alvaro Arias Useche**
 
 
 **Universidad:** *[Universidad del Norte]*  
