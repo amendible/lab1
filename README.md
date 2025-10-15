@@ -62,8 +62,7 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 | **Footer (futuro)** | Estado actual y mensajes del sistema |
 
 📸 **Ejemplo visual:**  
-![Captura del editor](<img width="1156" height="651" alt="image" src="https://github.com/user-attachments/assets/8799731b-bee5-4cd5-9dad-ed2a5d72a678" />
-)
+![Captura del editor](<img width="1156" height="651" alt="image" src="https://github.com/user-attachments/assets/8799731b-bee5-4cd5-9dad-ed2a5d72a678" />)
 
 ---
 
