@@ -68,9 +68,10 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
   <img src="https://github.com/user-attachments/assets/cb3ce27d-de04-4f20-a352-d4d76e31f7b5" alt="Ejemplo mapa básico" width="700"/>
 </div>
 
----
+
 ## 🧠 Estructura del proyecto
 editor-de-mapas/
+---
 │
 ├── assets/ # Recursos gráficos del editor
 │ └── tiles/ # Imágenes de los distintos tipos de bloques
