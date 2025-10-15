@@ -71,8 +71,8 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 ---
 
 ## 🧠 Estructura del proyecto
-````markdown
 
+````markdown
 editor-de-mapas/
 │
 ├── assets/ # Recursos gráficos del editor
@@ -96,6 +96,7 @@ editor-de-mapas/
 │
 └── icon.svg # Ícono del proyecto
 
+```text
 ---
 
 ## 🔮 Próximos pasos
