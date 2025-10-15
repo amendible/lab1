@@ -92,10 +92,8 @@ editor-de-mapas/
 │ └── tm_background.gd
 │
 └── icon.svg # Ícono del proyecto
-
-
-
 ---
+
 
 ## 🔮 Próximos pasos
 
