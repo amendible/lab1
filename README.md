@@ -62,8 +62,8 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 | **Footer (futuro)** | Estado actual y mensajes del sistema |
 
 📸 **Ejemplo visual:**  
-![Captura del editor](<img width="1156" height="651" alt="ejemplo mapa basico" src="https://github.com/user-attachments/assets/cb3ce27d-de04-4f20-a352-d4d76e31f7b5" />
-)
+![Captura del editor](https://github.com/user-attachments/assets/cb3ce27d-de04-4f20-a352-d4d76e31f7b5)
+
 
 ---
 
