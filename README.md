@@ -70,7 +70,7 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 </div>
 
 
-![Vista previa del editor](![animation](https://github.com/user-attachments/assets/66560d2e-4d77-4fc6-a3f0-4d47ab9d2da1))
+![animation](https://github.com/user-attachments/assets/66560d2e-4d77-4fc6-a3f0-4d47ab9d2da1)
 
 ---
 
