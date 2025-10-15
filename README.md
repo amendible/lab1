@@ -43,9 +43,9 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 |--------|--------------|
 | 🖱️ Click izquierdo | Pinta un tile del tipo seleccionado |
 | 🖱️ Click derecho | Borra un tile |
-| <img width="32" height="30" alt="image" src="https://github.com/user-attachments/assets/00f167a5-034e-4e1f-aa69-d33798c2a3f9" />| Selecciona tile de suelo |
-| <img width="33" height="31" alt="image" src="https://github.com/user-attachments/assets/9387d286-4239-4b28-9458-7bc1b62d2b3c" />| Selecciona tile de cesped |
-| <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/80e684f3-9810-46a3-9192-9b7e253b965a" />| Selecciona tile de ladrillo |
+| <img width="32" height="30" alt="image" src="https://github.com/user-attachments/assets/00f167a5-034e-4e1f-aa69-d33798c2a3f9" /> | Selecciona tile de suelo |
+| <img width="33" height="31" alt="image" src="https://github.com/user-attachments/assets/9387d286-4239-4b28-9458-7bc1b62d2b3c" /> | Selecciona tile de césped |
+| <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/80e684f3-9810-46a3-9192-9b7e253b965a" /> | Selecciona tile de ladrillo |
 
 ---
 
@@ -69,11 +69,9 @@ El editor debe ser **visual, interactivo y modular**, permitiendo pintar y borra
 </div>
 
 ---
+
 ## 🧠 Estructura del proyecto
-
-
 editor-de-mapas/
-│
 │
 ├── assets/ # Recursos gráficos del editor
 │ └── tiles/ # Imágenes de los distintos tipos de bloques
@@ -97,7 +95,6 @@ editor-de-mapas/
 └── icon.svg # Ícono del proyecto
 
 ---
-
 
 ## 🔮 Próximos pasos
 
@@ -165,5 +162,5 @@ El código puede reutilizarse y modificarse libremente con fines educativos.
 
 > 💬 *“Construir herramientas es el primer paso para crear mundos.”*  
 > — Proyecto Editor de Mapas 2D 🌍
-
+## 🧠 Estructura del proyecto
 
