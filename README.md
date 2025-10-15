@@ -56,6 +56,21 @@ Controles
 ![animation](https://github.com/user-attachments/assets/66560d2e-4d77-4fc6-a3f0-4d47ab9d2da1)
 
 ---
+## Cambiar tamaño del mapa
+func _on_new_map_pressed():
+    menu.visible = false
+    editor_ui.visible = true
+    current_map = MapData.new()
+    current_map.width = 128
+    current_map.height = 64
+    current_map.tile_size = 32
+    current_map.generate_empty(["background"])
+    tilemap.clear()
+    _update_full_tilemap_from_model()
+    print("Nuevo mapa creado ✅")
+
+Solo se tienen que cambiar los valores de current_map.width y current_map.height al tamaño deseado.
+
 
 ## Estructura del proyecto
 
